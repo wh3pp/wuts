@@ -1,6 +1,6 @@
 [package]
 name = "wuts"
-version = "0.1.0"
+version = "0.1.0-alpha"
 description = "A Tauri + Svelte WhatsApp desktop client."
 authors = ["wh3pp"]
 license = ""
